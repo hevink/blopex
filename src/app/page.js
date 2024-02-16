@@ -10,8 +10,6 @@ export default function Home() {
       <HomeCoverSection blogs={allBlogs} />
       <FeaturedPosts blogs={allBlogs} />
       <RecentPosts blogs={allBlogs} />
-
-
     </main>
   )
 }
